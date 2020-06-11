@@ -26,7 +26,6 @@ class GAT(torch.nn.Module):
         self.max_epochs = 1600
         
         self.name = 'GAT'
-        self.heads_list = random.sample((1,2,3,4,5,6,7,9,10),9)
         self.hyperparameters = {
             'num_layers': self.info['num_layers'],
             'lr': self.info['lr'],
