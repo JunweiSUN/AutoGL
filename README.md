@@ -37,9 +37,12 @@ We refer to these packages and codes when developing this program:<br>
 [DropEdge](https://github.com/DropEdge/DropEdge): a Pytorch implementation of paper: DropEdge: Towards Deep Graph Convolutional Networks on Node Classification
 
 ## Contact us
-If you have any question or advice, please feel free to contact us:<br>
-junweisun@bupt.edu.cn<br>
-kuangruifeng@bupt.edu.cn
+If you have any question or advice, please feel free to contact our team members:<br>
+Junwei Sun: junweisun@bupt.edu.cn<br>
+Ruifeng Kuang: kuangruifeng@bupt.edu.cn<br>
+Wei Huang: 18262998091@163.com
+Changrui Mu: u3553427@connect.hku.hk
+Jiayan Wang: jiayanwangno1@gmail.com
 
 ## License 
 [Apache License 2.0](https://github.com/JunweiSUN/AutoGL/blob/master/LICENSE)
