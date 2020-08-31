@@ -4,7 +4,7 @@
 
 AutoGL is graph learning framework with automatic machine learning techniques. AutoGL now mainly focus on node classification problems, but it's easy to apply this program to other graph learning problems.
 
-AutoGL is the 7th solution for AutoGraph Challenge@KDD'20, the competition rules can be found [here](https://www.automl.ai/competitions/3). We achieve 1st, 4th, 1st, 6th and 27th on 5 final phase datasets. 
+AutoGL is the 6th solution for AutoGraph Challenge@KDD'20, the competition rules can be found [here](https://www.automl.ai/competitions/3). We achieve 1st, 4th, 1st, 6th and 27th on 5 final phase datasets. 
 | #   | Dataset1     | Dataset2    | Dataset3   | Dataset4   | Dataset5 | Avg |
 | --- | -------- | ------- | -------- | ------ | ----------- | ---------------------- | 
 | rank   | 1  | 4   | 1      | 6  | 27 | 7.8 |
